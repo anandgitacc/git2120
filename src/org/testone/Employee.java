@@ -22,5 +22,5 @@ public class Employee {
 		e.empName();
 		e.empno();
 	}
-
+	
 }
