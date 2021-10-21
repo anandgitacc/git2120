@@ -10,12 +10,17 @@ public class Employee {
 		System.out.println("Name : Anand");
 	}
 	
+	public void empno() {
+		System.out.println("8667070832");
+	}
+	
 	public static void main(String[] args) {
 		
 		Employee e = new Employee();
 		
 		e.empId();
 		e.empName();
+		e.empno();
 	}
-
+	
 }
